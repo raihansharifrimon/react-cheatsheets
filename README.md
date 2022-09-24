@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px style="border-radious: 50%" height=200px src="https://raw.githubusercontent.com/raihansharifrimon/react-cheatsheets/main/images/react-logo.png" alt="Project logo"></a>
+ <img width=200px style="border-radious: 50%" height=200px src="https://raw.githubusercontent.com/raihansharifrimon/react-cheatsheets/main/images/reactlogo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Project Title</h3>
